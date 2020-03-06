@@ -1,0 +1,85 @@
+.name{
+	color: white;
+	text-align: bottom;
+}
+
+table{
+	width: 100%;
+}
+
+#inv{
+	border: none;
+}
+
+td{
+	width: 60px;
+	height: 60px;
+	border: 1px solid black;
+}
+
+h1{
+	color: #000000;
+	text-align: center;
+	font-size: 2vw;
+	margin: 0;
+}
+
+p{
+	font-size: 1vw;
+	margin: 0;
+}
+
+body{
+	background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/12/Amazing-Chemistry-Background.png");
+	background-size: 200%;
+}
+
+.a_weight{
+	margin-right: 2px;
+	text-align: right;
+}
+
+.num{
+	margin-left: 2px;
+	text-align: left;
+}
+
+.c1{
+	background-color: #70DBD1;
+}
+
+.c2{
+	background-color: #4C787E;
+}
+
+.c3{
+	background-color: #F75D59;
+}
+
+.c4{
+	background-color: #F87217
+}
+
+.c5{
+	background-color: #CCFB5D
+}
+
+.c6{
+	background-color: #43BFC7
+}
+
+.c7{
+	background-color: #F5F500
+}
+
+.c8{
+	background-color: #EDC9AF
+}
+
+.c9{
+	background-color: #7E587E
+}
+
+.c10{
+	background-color: #E95091
+}

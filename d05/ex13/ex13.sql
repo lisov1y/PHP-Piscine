@@ -1,0 +1,1 @@
+SELECT round(sum(nb_seats) / count(*)) AS average FROM cinema;
